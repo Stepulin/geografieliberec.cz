@@ -1,0 +1,250 @@
+﻿id;iso_2;iso_3;country_en;country_cz
+4;AF;AFG;Afghanistan;Afghánistán
+8;AL;ALB;Albania;Albánie
+10;AQ;ATA;Antarctica;Antarktida
+12;DZ;DZA;Algeria;Alžírsko
+16;AS;ASM;American Samoa;Americká Samoa
+20;AD;AND;Andorra;Andorra
+24;AO;AGO;Angola;Angola
+28;AG;ATG;Antigua and Barbuda;Antigua a Barbuda
+31;AZ;AZE;Azerbaijan;Ázerbájdžán
+32;AR;ARG;Argentina;Argentina
+36;AU;AUS;Australia;Austrálie
+40;AT;AUT;Austria;Rakousko
+44;BS;BHS;Bahamas (the);Bahamy
+48;BH;BHR;Bahrain;Bahrajn
+50;BD;BGD;Bangladesh;Bangladéš
+51;AM;ARM;Armenia;Arménie
+52;BB;BRB;Barbados;Barbados
+56;BE;BEL;Belgium;Belgie
+60;BM;BMU;Bermuda;Bermudy
+64;BT;BTN;Bhutan;Bhútán
+68;BO;BOL;Bolivia (Plurinational State of);Bolívie
+70;BA;BIH;Bosnia and Herzegovina;Bosna a Hercegovina
+72;BW;BWA;Botswana;Botswana
+74;BV;BVT;Bouvet Island;Bouvetův ostrov
+76;BR;BRA;Brazil;Brazílie
+84;BZ;BLZ;Belize;Belize
+86;IO;IOT;British Indian Ocean Territory (the);Britské indickooceánské území
+90;SB;SLB;Solomon Islands;Šalomounovy ostrovy
+92;VG;VGB;Virgin Islands (British);Britské Panenské ostrovy
+96;BN;BRN;Brunei Darussalam;Brunej
+100;BG;BGR;Bulgaria;Bulharsko
+104;MM;MMR;Myanmar;Myanmar
+108;BI;BDI;Burundi;Burundi
+112;BY;BLR;Belarus;Bělorusko
+116;KH;KHM;Cambodia;Kambodža
+120;CM;CMR;Cameroon;Kamerun
+124;CA;CAN;Canada;Kanada
+132;CV;CPV;Cabo Verde;Kapverdy
+136;KY;CYM;Cayman Islands (the);Kajmanské ostrovy
+140;CF;CAF;Central African Republic (the);Středoafrická republika
+144;LK;LKA;Sri Lanka;Srí Lanka
+148;TD;TCD;Chad;Čad
+152;CL;CHL;Chile;Chile
+156;CN;CHN;China;Čína
+158;TW;TWN;Taiwan (Province of China);Tchaj-wan
+162;CX;CXR;Christmas Island;Vánoční ostrov
+166;CC;CCK;Cocos (Keeling) Islands (the);Kokosové ostrovy
+170;CO;COL;Colombia;Kolumbie
+174;KM;COM;Comoros (the);Komory
+175;YT;MYT;Mayotte;Mayotte
+178;CG;COG;Congo (the);Kongo
+180;CD;COD;Congo (the Democratic Republic of the);Demokratická republika Kongo
+184;CK;COK;Cook Islands (the);Cookovy ostrovy
+188;CR;CRI;Costa Rica;Kostarika
+191;HR;HRV;Croatia;Chorvatsko
+192;CU;CUB;Cuba;Kuba
+196;CY;CYP;Cyprus;Kypr
+203;CZ;CZE;Czechia;Česko
+204;BJ;BEN;Benin;Benin
+208;DK;DNK;Denmark;Dánsko
+212;DM;DMA;Dominica;Dominika
+214;DO;DOM;Dominican Republic (the);Dominikánská republika
+218;EC;ECU;Ecuador;Ekvádor
+222;SV;SLV;El Salvador;Salvador
+226;GQ;GNQ;Equatorial Guinea;Rovníková Guinea
+231;ET;ETH;Ethiopia;Etiopie
+232;ER;ERI;Eritrea;Eritrea
+233;EE;EST;Estonia;Estonsko
+234;FO;FRO;Faroe Islands (the);Faerské ostrovy
+238;FK;FLK;Falkland Islands (the) [Malvinas];Falklandy (Malvíny)
+239;GS;SGS;South Georgia and the South Sandwich Islands;Jižní Georgie a Jižní Sandwichovy ostrovy
+242;FJ;FJI;Fiji;Fidži
+246;FI;FIN;Finland;Finsko
+248;AX;ALA;Åland Islands;Alandy
+250;FR;FRA;France;Francie
+254;GF;GUF;French Guiana;Francouzská Guyana
+258;PF;PYF;French Polynesia;Francouzská Polynésie
+260;TF;ATF;French Southern Territories (the);Francouzská jižní a antarktická území
+262;DJ;DJI;Djibouti;Džibutsko
+266;GA;GAB;Gabon;Gabon
+268;GE;GEO;Georgia;Gruzie
+270;GM;GMB;Gambia (the);Gambie
+275;PS;PSE;Palestine, State of;Palestinská autonomie
+276;DE;DEU;Germany;Německo
+288;GH;GHA;Ghana;Ghana
+292;GI;GIB;Gibraltar;Gibraltar
+296;KI;KIR;Kiribati;Kiribati
+300;GR;GRC;Greece;Řecko
+304;GL;GRL;Greenland;Grónsko
+308;GD;GRD;Grenada;Grenada
+312;GP;GLP;Guadeloupe;Guadeloupe
+316;GU;GUM;Guam;Guam
+320;GT;GTM;Guatemala;Guatemala
+324;GN;GIN;Guinea;Guinea
+328;GY;GUY;Guyana;Guyana
+332;HT;HTI;Haiti;Haiti
+334;HM;HMD;Heard Island and McDonald Islands;Heardův ostrov a McDonaldovy ostrovy
+336;VA;VAT;Holy See (the);Vatikán
+340;HN;HND;Honduras;Honduras
+344;HK;HKG;Hong Kong;Hongkong
+348;HU;HUN;Hungary;Maďarsko
+352;IS;ISL;Iceland;Island
+356;IN;IND;India;Indie
+360;ID;IDN;Indonesia;Indonésie
+364;IR;IRN;Iran (Islamic Republic of);Írán
+368;IQ;IRQ;Iraq;Irák
+372;IE;IRL;Ireland;Irsko
+376;IL;ISR;Israel;Izrael
+380;IT;ITA;Italy;Itálie
+384;CI;CIV;Côte d'Ivoire;Pobřeží slonoviny
+388;JM;JAM;Jamaica;Jamajka
+392;JP;JPN;Japan;Japonsko
+398;KZ;KAZ;Kazakhstan;Kazachstán
+400;JO;JOR;Jordan;Jordánsko
+404;KE;KEN;Kenya;Keňa
+408;KP;PRK;Korea (the Democratic People's Republic of);Severní Korea
+410;KR;KOR;Korea (the Republic of);Jižní Korea
+414;KW;KWT;Kuwait;Kuvajt
+417;KG;KGZ;Kyrgyzstan;Kyrgyzstán
+418;LA;LAO;Lao People's Democratic Republic (the);Laos
+422;LB;LBN;Lebanon;Libanon
+426;LS;LSO;Lesotho;Lesotho
+428;LV;LVA;Latvia;Lotyšsko
+430;LR;LBR;Liberia;Libérie
+434;LY;LBY;Libya;Libye
+438;LI;LIE;Liechtenstein;Lichtenštejnsko
+440;LT;LTU;Lithuania;Litva
+442;LU;LUX;Luxembourg;Lucembursko
+446;MO;MAC;Macao;Macao
+450;MG;MDG;Madagascar;Madagaskar
+454;MW;MWI;Malawi;Malawi
+458;MY;MYS;Malaysia;Malajsie
+462;MV;MDV;Maldives;Maledivy
+466;ML;MLI;Mali;Mali
+470;MT;MLT;Malta;Malta
+474;MQ;MTQ;Martinique;Martinik
+478;MR;MRT;Mauritania;Mauritánie
+480;MU;MUS;Mauritius;Mauricius
+484;MX;MEX;Mexico;Mexiko
+492;MC;MCO;Monaco;Monako
+496;MN;MNG;Mongolia;Mongolsko
+498;MD;MDA;Moldova (the Republic of);Moldavsko
+499;ME;MNE;Montenegro;Černá Hora
+500;MS;MSR;Montserrat;Montserrat
+504;MA;MAR;Morocco;Maroko
+508;MZ;MOZ;Mozambique;Mosambik
+512;OM;OMN;Oman;Omán
+516;NA;NAM;Namibia;Namibie
+520;NR;NRU;Nauru;Nauru
+524;NP;NPL;Nepal;Nepál
+528;NL;NLD;Netherlands (the);Nizozemsko
+531;CW;CUW;Curaçao;Curaçao
+533;AW;ABW;Aruba;Aruba
+534;SX;SXM;Sint Maarten (Dutch part);Svatý Martin (nizozemská část)
+535;BQ;BES;Bonaire, Sint Eustatius and Saba;Bonaire, Svatý Eustach a Saba
+540;NC;NCL;New Caledonia;Nová Kaledonie
+548;VU;VUT;Vanuatu;Vanuatu
+554;NZ;NZL;New Zealand;Nový Zéland
+558;NI;NIC;Nicaragua;Nikaragua
+562;NE;NER;Niger (the);Niger
+566;NG;NGA;Nigeria;Nigérie
+570;NU;NIU;Niue;Niue
+574;NF;NFK;Norfolk Island;Norfolk
+578;NO;NOR;Norway;Norsko
+580;MP;MNP;Northern Mariana Islands (the);Severní Mariany
+581;UM;UMI;United States Minor Outlying Islands (the);Menší odlehlé ostrovy USA
+583;FM;FSM;Micronesia (Federated States of);Mikronésie
+584;MH;MHL;Marshall Islands (the);Marshallovy ostrovy
+585;PW;PLW;Palau;Palau
+586;PK;PAK;Pakistan;Pákistán
+591;PA;PAN;Panama;Panama
+598;PG;PNG;Papua New Guinea;Papua Nová Guinea
+600;PY;PRY;Paraguay;Paraguay
+604;PE;PER;Peru;Peru
+608;PH;PHL;Philippines (the);Filipíny
+612;PN;PCN;Pitcairn;Pitcairnovy ostrovy
+616;PL;POL;Poland;Polsko
+620;PT;PRT;Portugal;Portugalsko
+624;GW;GNB;Guinea-Bissau;Guinea-Bissau
+626;TL;TLS;Timor-Leste;Východní Timor
+630;PR;PRI;Puerto Rico;Portoriko
+634;QA;QAT;Qatar;Katar
+638;RE;REU;Réunion;Réunion
+642;RO;ROU;Romania;Rumunsko
+643;RU;RUS;Russian Federation (the);Rusko
+646;RW;RWA;Rwanda;Rwanda
+652;BL;BLM;Saint Barthélemy;Svatý Bartoloměj
+654;SH;SHN;Saint Helena, Ascension and Tristan da Cunha;Svatá Helena, Ascension a Tristan da Cunha
+659;KN;KNA;Saint Kitts and Nevis;Svatý Kryštof a Nevis
+660;AI;AIA;Anguilla;Anguilla
+662;LC;LCA;Saint Lucia;Svatá Lucie
+663;MF;MAF;Saint Martin (French part);Svatý Martin (francouzská část)
+666;PM;SPM;Saint Pierre and Miquelon;Saint Pierre a Miquelon
+670;VC;VCT;Saint Vincent and the Grenadines;Svatý Vincenc a Grenadiny
+674;SM;SMR;San Marino;San Marino
+678;ST;STP;Sao Tome and Principe;Svatý Tomáš a Princův ostrov
+682;SA;SAU;Saudi Arabia;Saúdská Arábie
+686;SN;SEN;Senegal;Senegal
+688;RS;SRB;Serbia;Srbsko
+690;SC;SYC;Seychelles;Seychely
+694;SL;SLE;Sierra Leone;Sierra Leone
+702;SG;SGP;Singapore;Singapur
+703;SK;SVK;Slovakia;Slovensko
+704;VN;VNM;Viet Nam;Vietnam
+705;SI;SVN;Slovenia;Slovinsko
+706;SO;SOM;Somalia;Somálsko
+710;ZA;ZAF;South Africa;Jihoafrická republika
+716;ZW;ZWE;Zimbabwe;Zimbabwe
+724;ES;ESP;Spain;Španělsko
+728;SS;SSD;South Sudan;Jižní Súdán
+729;SD;SDN;Sudan (the);Súdán
+732;EH;ESH;Western Sahara;Západní Sahara
+740;SR;SUR;Suriname;Surinam
+744;SJ;SJM;Svalbard and Jan Mayen;Špicberky a Jan Mayen
+748;SZ;SWZ;Eswatini;Svazijsko
+752;SE;SWE;Sweden;Švédsko
+756;CH;CHE;Switzerland;Švýcarsko
+760;SY;SYR;Syrian Arab Republic;Sýrie
+762;TJ;TJK;Tajikistan;Tádžikistán
+764;TH;THA;Thailand;Thajsko
+768;TG;TGO;Togo;Togo
+772;TK;TKL;Tokelau;Tokelau
+776;TO;TON;Tonga;Tonga
+780;TT;TTO;Trinidad and Tobago;Trinidad a Tobago
+784;AE;ARE;United Arab Emirates (the);Spojené arabské emiráty
+788;TN;TUN;Tunisia;Tunisko
+792;TR;TUR;Turkey;Turecko
+795;TM;TKM;Turkmenistan;Turkmenistán
+796;TC;TCA;Turks and Caicos Islands (the);Turks a Caicos
+798;TV;TUV;Tuvalu;Tuvalu
+800;UG;UGA;Uganda;Uganda
+804;UA;UKR;Ukraine;Ukrajina
+807;MK;MKD;Republic of North Macedonia;Severní Makedonie
+818;EG;EGY;Egypt;Egypt
+826;GB;GBR;United Kingdom of Great Britain and Northern Ireland (the);Spojené království Velké Británie a Severního Irska
+831;GG;GGY;Guernsey;Guernsey
+832;JE;JEY;Jersey;Jersey
+833;IM;IMN;Isle of Man;Ostrov Man
+834;TZ;TZA;Tanzania, United Republic of;Tanzanie
+840;US;USA;United States of America (the);Spojené státy americké
+850;VI;VIR;Virgin Islands (U.S.);Americké Panenské ostrovy
+854;BF;BFA;Burkina Faso;Burkina Faso
+858;UY;URY;Uruguay;Uruguay
+860;UZ;UZB;Uzbekistan;Uzbekistán
+862;VE;VEN;Venezuela (Bolivarian Republic of);Venezuela
+876;WF;WLF;Wallis and Futuna;Wallis a Futuna
+882;WS;WSM;Samoa;Samoa
+887;YE;YEM;Yemen;Jemen
+894;ZM;ZMB;Zambia;Zambie
