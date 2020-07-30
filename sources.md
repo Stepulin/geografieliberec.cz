@@ -47,10 +47,17 @@ https://developers.google.com/public-data/docs/canonical/countries_csv
 
 ### Code
 https://docs.bokeh.org/en/latest/index.html
+
 https://python-visualization.github.io/folium/
+
 https://vverde.github.io/blob/interactivechoropleth.html
+
 https://geospatialawarenesshub.com/blog/make-interactive-choropleth-maps/
+
 https://automating-gis-processes.github.io/2017/lessons/L5/interactive-map-bokeh.html
+
 https://towardsdatascience.com/walkthrough-mapping-basics-with-bokeh-and-geopandas-in-python-43f40aa5b7e9
+
 https://kodu.ut.ee/~kmoch/geopython2018/lessons/L5/interactive-map-bokeh.html
+
 https://www.nagarajbhat.com/post/folium-visualization/
