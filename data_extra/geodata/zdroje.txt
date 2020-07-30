@@ -1,0 +1,23 @@
+https://www.convertcsv.com/ convertor
+
+file
+url
+date
+
+custom.geo.json
+https://geojson-maps.ash.ms/
+7. 6. 2020
+
+geojson-regions-master.zip
+https://github.com/AshKyd/geojson-regions
+7. 6. 2020
+
+countries.geojson
+https://datahub.io/core/geo-countries/r/countries.geojson
+7. 6. 2020
+
+countries_longlat.csv
+https://developers.google.com/public-data/docs/canonical/countries_csv
+20. 6. 2020
+
+

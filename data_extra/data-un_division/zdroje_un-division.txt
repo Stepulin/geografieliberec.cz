@@ -1,0 +1,10 @@
+UN_MigrantStockTotal_2019.xlsx
+https://www.un.org/en/development/desa/population/migration/data/estimates2/data/UN_MigrantStockTotal_2019.xlsx
+
+UN_MigrantStockByAgeAndSex_2019.xlsx
+https://www.un.org/en/development/desa/population/migration/data/estimates2/data/UN_MigrantStockByAgeAndSex_2019.xlsx
+
+UN_MigrantStockByOriginAndDestination_2019.xlsx
+https://www.un.org/en/development/desa/population/migration/data/estimates2/data/UN_MigrantStockByOriginAndDestination_2019.xlsx
+
+vse 7. 6. 2020
