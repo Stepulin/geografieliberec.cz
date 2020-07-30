@@ -1,0 +1,9 @@
+[Unit]
+Description=Spusteni str_dlk_ziv_m Bokeh pri startu stroje
+
+[Service]
+Type=simple
+ExecStart=/bin/bash /usr/bin/bokeh_str_dlk_ziv_m.sh
+
+[Install]
+WantedBy=multi-user.target

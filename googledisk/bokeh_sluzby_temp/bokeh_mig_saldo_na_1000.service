@@ -1,0 +1,9 @@
+[Unit]
+Description=Spusteni mig_saldo_na_1000 Bokeh pri startu stroje
+
+[Service]
+Type=simple
+ExecStart=/bin/bash /usr/bin/bokeh_mig_saldo_na_1000.sh
+
+[Install]
+WantedBy=multi-user.target

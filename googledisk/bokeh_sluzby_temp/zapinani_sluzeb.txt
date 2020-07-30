@@ -1,0 +1,10 @@
+bokeh_mig_saldo
+bokeh_mig_saldo_na_1000
+bokeh_muzi
+bokeh_prirozeny_prirustek_na_1000
+bokeh_proc_narust_pop
+bokeh_str_dlk_ziv_clkm
+bokeh_str_dlk_ziv_m
+bokeh_str_dlk_ziv_z
+bokeh_umrtnost
+bokeh_zeny

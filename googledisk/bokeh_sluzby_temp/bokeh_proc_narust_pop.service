@@ -1,0 +1,9 @@
+[Unit]
+Description=Spusteni proc_narust_pop Bokeh pri startu stroje
+
+[Service]
+Type=simple
+ExecStart=/bin/bash /usr/bin/bokeh_proc_narust_pop.sh
+
+[Install]
+WantedBy=multi-user.target

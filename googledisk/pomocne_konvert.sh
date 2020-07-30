@@ -1,0 +1,12 @@
+ipynb-py-convert bokeh_mig_saldo.ipynb bokeh_mig_saldo.py
+ipynb-py-convert bokeh_mig_saldo_na_1000.ipynb bokeh_mig_saldo_na_1000.py
+ipynb-py-convert bokeh_muzi.ipynb bokeh_muzi.py
+ipynb-py-convert bokeh_porodnost.ipynb bokeh_porodnost.py
+ipynb-py-convert bokeh_prirozeny_prirustek_na_1000.ipynb bokeh_prirozeny_prirustek_na_1000.py
+ipynb-py-convert bokeh_proc_narust_pop.ipynb bokeh_proc_narust_pop.py
+ipynb-py-convert bokeh_str_dlk_ziv_clkm.ipynb bokeh_str_dlk_ziv_clkm.py
+ipynb-py-convert bokeh_str_dlk_ziv_m.ipynb bokeh_str_dlk_ziv_m.py
+ipynb-py-convert bokeh_str_dlk_ziv_z.ipynb bokeh_str_dlk_ziv_z.py
+ipynb-py-convert bokeh_ukazka.ipynb bokeh_ukazka.py
+ipynb-py-convert bokeh_umrtnost.ipynb bokeh_umrtnost.py
+ipynb-py-convert bokeh_zeny.ipynb bokeh_zeny.py

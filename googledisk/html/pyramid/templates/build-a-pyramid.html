@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Population Pyramids</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+
+<body>
+  <div class="w3-center w3-padding">
+    <H1>Generator věkových pyramid</H1>
+
+    <FORM id='submit_content' method="POST" action="{{ url_for('build_pyramid') }}">
+
+    <SELECT class="selectpicker" name="selected_country">
+        <option value="{{selected_country}}" selected>{{selected_country}}</option>
+        {% for country in location_list %}
+        <option>{{country}}</option>
+        {% endfor %}
+    </SELECT>
+
+    <SELECT class="selectpicker" name="selected_year" >
+      <option value="{{selected_year}}" selected>{{selected_year}}</option>
+      {% for year in range(1950, 2019, 5) %}
+        <option value="{{year}}">{{year}}</option>
+      {% endfor %}
+    </SELECT>
+    <button type="submit" form="submit_content" value="Submit">Generuj</button>
+  </FORM>
+</div>
+
+{{plot_to_show}}
+
+</body>
+
+</html>

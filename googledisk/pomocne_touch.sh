@@ -1,0 +1,21 @@
+touch bokeh_mig_saldo.sh
+touch bokeh_mig_saldo_na_1000.sh
+touch bokeh_muzi.sh
+touch bokeh_prirozeny_prirustek_na_1000.sh
+touch bokeh_proc_narust_pop.sh
+touch bokeh_str_dlk_ziv_clkm.sh
+touch bokeh_str_dlk_ziv_m.sh
+touch bokeh_str_dlk_ziv_z.sh
+touch bokeh_umrtnost.sh
+touch bokeh_zeny.sh
+
+touch bokeh_mig_saldo.service
+touch bokeh_mig_saldo_na_1000.service
+touch bokeh_muzi.service
+touch bokeh_prirozeny_prirustek_na_1000.service
+touch bokeh_proc_narust_pop.service
+touch bokeh_str_dlk_ziv_clkm.service
+touch bokeh_str_dlk_ziv_m.service
+touch bokeh_str_dlk_ziv_z.service
+touch bokeh_umrtnost.service
+touch bokeh_zeny.service

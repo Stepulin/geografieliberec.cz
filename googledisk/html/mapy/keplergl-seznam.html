@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="cs">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <title>kepler.gl</title>
+  </head>
+  <body>
+   <p class="h1">SEZNAM MAP | KEPLERGL</p>
+    <div style="margin:50px">
+      <!--
+         Here are our form elements,
+         we have the select box / dropdown list
+         which contains our URLs or links
+      -->
+      <!--
+      <select id="websites" style="width:200px;">
+         <option value="https://geografieliberec.cz/mapy/published/03-folium/indexT1990.html">Migrace Total 1990</option>
+         <option value="https://geografieliberec.cz/mapy/published/03-folium/indexT1995.html">Migrace Total 1995</option>
+         <option value="https://geografieliberec.cz/mapy/published/03-folium/indexT2000.html">Migrace Total 2000</option>
+         <option value="https://geografieliberec.cz/mapy/published/03-folium/indexT2005.html">Migrace Total 2005</option>
+         <option value="https://geografieliberec.cz/mapy/published/03-folium/indexT2010.html">Migrace Total 2010</option>
+         <option value="https://geografieliberec.cz/mapy/published/03-folium/indexT2015.html">Migrace Total 2015</option>
+      </select>
+      -->
+      <p class="h3">Počet obyvatel - bez editace</p>
+      <div class="input-group">
+         <!--
+         <select class="custom-select" id="websites">
+         -->
+         <select id="websites">
+            <option value="https://geografieliberec.cz/mapy/published/04-keplergl/pocet_ob-1950_ro.html">Počet obyvatel | 1950</option>
+            <option value="https://geografieliberec.cz/mapy/published/04-keplergl/pocet_ob-1955_ro.html">Počet obyvatel | 1955</option>
+            <option value="https://geografieliberec.cz/mapy/published/04-keplergl/pocet_ob-1960_ro.html">Počet obyvatel | 1960</option>
+            <option value="https://geografieliberec.cz/mapy/published/04-keplergl/pocet_ob-1965_ro.html">Počet obyvatel | 1965</option>
+            <option value="https://geografieliberec.cz/mapy/published/04-keplergl/pocet_ob-1970_ro.html">Počet obyvatel | 1970</option>
+            <option value="https://geografieliberec.cz/mapy/published/04-keplergl/pocet_ob-1975_ro.html">Počet obyvatel | 1975</option>
+            <option value="https://geografieliberec.cz/mapy/published/04-keplergl/pocet_ob-1980_ro.html">Počet obyvatel | 1980</option>
+            <option value="https://geografieliberec.cz/mapy/published/04-keplergl/pocet_ob-1985_ro.html">Počet obyvatel | 1985</option>
+            <option value="https://geografieliberec.cz/mapy/published/04-keplergl/pocet_ob-1990_ro.html">Počet obyvatel | 1990</option>
+            <option value="https://geografieliberec.cz/mapy/published/04-keplergl/pocet_ob-1995_ro.html">Počet obyvatel | 1995</option>
+            <option value="https://geografieliberec.cz/mapy/published/04-keplergl/pocet_ob-2000_ro.html">Počet obyvatel | 2000</option>
+            <option value="https://geografieliberec.cz/mapy/published/04-keplergl/pocet_ob-2005_ro.html">Počet obyvatel | 2005</option>
+            <option value="https://geografieliberec.cz/mapy/published/04-keplergl/pocet_ob-2010_ro.html">Počet obyvatel | 2010</option>
+            <option value="https://geografieliberec.cz/mapy/published/04-keplergl/pocet_ob-2015_ro.html">Počet obyvatel | 2015</option>
+            <option value="https://geografieliberec.cz/mapy/published/04-keplergl/pocet_ob-2019_ro.html">Počet obyvatel | 2019</option>
+         </select>
+         <div class="input-group-append">
+           <button class="btn btn-outline-secondary" type="button" id=open_same_window>Otevři vybranou mapu</button>
+         </div>
+       </div>
+       <br>
+       <p class="h3">Počet obyvatel - s editací</p>
+       <div class="input-group">
+          <!--
+          <select class="custom-select" id="websites">
+          -->
+          <select id="websites2">
+             <option value="https://geografieliberec.cz/mapy/published/04-keplergl/pocet_ob-1950_rw.html">Počet obyvatel | 1950</option>
+             <option value="https://geografieliberec.cz/mapy/published/04-keplergl/pocet_ob-1955_rw.html">Počet obyvatel | 1955</option>
+             <option value="https://geografieliberec.cz/mapy/published/04-keplergl/pocet_ob-1960_rw.html">Počet obyvatel | 1960</option>
+             <option value="https://geografieliberec.cz/mapy/published/04-keplergl/pocet_ob-1965_rw.html">Počet obyvatel | 1965</option>
+             <option value="https://geografieliberec.cz/mapy/published/04-keplergl/pocet_ob-1970_rw.html">Počet obyvatel | 1970</option>
+             <option value="https://geografieliberec.cz/mapy/published/04-keplergl/pocet_ob-1975_rw.html">Počet obyvatel | 1975</option>
+             <option value="https://geografieliberec.cz/mapy/published/04-keplergl/pocet_ob-1980_rw.html">Počet obyvatel | 1980</option>
+             <option value="https://geografieliberec.cz/mapy/published/04-keplergl/pocet_ob-1985_rw.html">Počet obyvatel | 1985</option>
+             <option value="https://geografieliberec.cz/mapy/published/04-keplergl/pocet_ob-1990_rw.html">Počet obyvatel | 1990</option>
+             <option value="https://geografieliberec.cz/mapy/published/04-keplergl/pocet_ob-1995_rw.html">Počet obyvatel | 1995</option>
+             <option value="https://geografieliberec.cz/mapy/published/04-keplergl/pocet_ob-2000_rw.html">Počet obyvatel | 2000</option>
+             <option value="https://geografieliberec.cz/mapy/published/04-keplergl/pocet_ob-2005_rw.html">Počet obyvatel | 2005</option>
+             <option value="https://geografieliberec.cz/mapy/published/04-keplergl/pocet_ob-2010_rw.html">Počet obyvatel | 2010</option>
+             <option value="https://geografieliberec.cz/mapy/published/04-keplergl/pocet_ob-2015_rw.html">Počet obyvatel | 2015</option>
+             <option value="https://geografieliberec.cz/mapy/published/04-keplergl/pocet_ob-2019_rw.html">Počet obyvatel | 2019</option>
+          </select>
+          <div class="input-group-append">
+            <button class="btn btn-outline-secondary" type="button" id=open_same_window2>Otevři vybranou mapu</button>
+          </div>
+        </div>
+   </div>
+   Zdroj selektoru <a href="https://www.codeofaninja.com/2012/01/jquery-redirect-onclick.html">[1]</a> 
+   <!-- include our library -->
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+   <script type='text/javascript'>
+   $(document).ready(function() {
+      //this will be triggered when the first button was clicked
+      $("#open_same_window").click(function(){
+         //this will find the selected website from the dropdown
+         var go_to_url = $("#websites").find(":selected").val();
+         //this will redirect us in same window
+         document.location.href = go_to_url;
+      });
+      //this will be triggered when the second button was clicked
+      $("#open_new_tab").click(function(){
+         //this will find the selected website from the dropdown
+         var go_to_url = $("#websites").find(":selected").val();
+         //this will redirect us in new tab
+         window.open(go_to_url, '_blank');
+      });
+   });
+   $(document).ready(function() {
+      //this will be triggered when the first button was clicked
+      $("#open_same_window2").click(function(){
+         //this will find the selected website from the dropdown
+         var go_to_url = $("#websites2").find(":selected").val();
+         //this will redirect us in same window
+         document.location.href = go_to_url;
+      });
+      //this will be triggered when the second button was clicked
+      $("#open_new_tab").click(function(){
+         //this will find the selected website from the dropdown
+         var go_to_url = $("#websites").find(":selected").val();
+         //this will redirect us in new tab
+         window.open(go_to_url, '_blank');
+      });
+   });
+   </script>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+  </body>
+</html>

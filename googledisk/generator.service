@@ -1,0 +1,9 @@
+[Unit]
+Description=Spusteni generatoruj vekovych pyramid pri startu stroje
+
+[Service]
+Type=simple
+ExecStart=/bin/bash /usr/bin/generator.sh
+
+[Install]
+WantedBy=multi-user.target
