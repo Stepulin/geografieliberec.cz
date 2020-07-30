@@ -1,0 +1,1 @@
+bokeh serve --show bokeh_porodnost.local.py --allow-websocket-origin=* --port 8080

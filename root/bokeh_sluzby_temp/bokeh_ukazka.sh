@@ -1,0 +1,1 @@
+bokeh serve --ssl-certfile /etc/letsencrypt/live/geografieliberec.cz/cert.pem --ssl-keyfile /etc/letsencrypt/live/geografieliberec.cz/privkey.pem --show --allow-websocket-origin="*" --port 5001 /var/www/html/mapy/ukazky/01-bokeh/bokeh_ukazka.py

@@ -1,0 +1,9 @@
+[Unit]
+Description=Spusteni muzi Bokeh pri startu stroje
+
+[Service]
+Type=simple
+ExecStart=/bin/bash /usr/bin/bokeh_muzi.sh
+
+[Install]
+WantedBy=multi-user.target

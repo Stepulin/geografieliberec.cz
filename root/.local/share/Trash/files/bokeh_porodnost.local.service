@@ -1,0 +1,9 @@
+[Unit]
+Description=Spusteni porodnosti Bokeh pri startu stroje
+
+[Service]
+Type=simple
+ExecStart=/bin/bash /usr/bin/bokeh_porodnost.local.sh
+
+[Install]
+WantedBy=multi-user.target
