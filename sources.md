@@ -5,7 +5,7 @@ Some sources that were used are also included within the jupyter files; however,
 ### Components
 
 - **selector** for pages such as qgis2web-seznam.html  <a href="https://www.codeofaninja.com/2012/01/jquery-redirect-onclick.html">[1]</a>
-
+- **convertor for json data** https://www.convertcsv.com/
 
 
 ### Data
@@ -22,7 +22,11 @@ https://www.un.org/en/development/desa/population/migration/data/estimates2/data
 UN_MigrantStockByAgeAndSex_2019.xlsx
 https://www.un.org/en/development/desa/population/migration/data/estimates2/data/UN_MigrantStockByAgeAndSex_2019.xlsx
 
-##### geodata
+### Geodata
+**file**
+**url**
+**date**
+
 custom.geo.json
 https://geojson-maps.ash.ms/
 7. 6. 2020
@@ -38,3 +42,5 @@ https://datahub.io/core/geo-countries/r/countries.geojson
 countries_longlat.csv
 https://developers.google.com/public-data/docs/canonical/countries_csv
 20. 6. 2020
+
+### Code
